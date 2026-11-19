@@ -1,0 +1,8 @@
+numpy
+qiskit
+qutip
+
+matplotlib
+ipykernel
+jupyter
+notebook
